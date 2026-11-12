@@ -72,7 +72,15 @@ print ("El monto depositado es:", monto)
 
 #Maria Bravo
 
-nota= float(input("Ingrese una nota:")) 
- while nota>=0 or nota<10:
-     print(nota)
-     
+while True:
+    nota= float(input("Ingrese una nota:")) 
+
+    if nota <=0:
+     print("Nota invalida, ingrese nuevamente")
+    elif nota ==10:
+        print("Nota 10")
+        break
+    else:
+        print("Nota ingresada:", nota)
+ 
+    
