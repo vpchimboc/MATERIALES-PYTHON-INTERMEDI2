@@ -1,0 +1,6 @@
+persona 1('SANTIAGO', 24, 'nasti@gmail')
+persona 2('DOME', 20, 'DOME@gmail')
+persona 3('KAREN', 19, 'KAREN@gmail')
+persona 4('DIANA', 21, 'DIANA@gmail')
+persona 5('DANIELA', 22, 'DANIELA@gmail')
+"persona 6" : ("DANIELA, 22, "DANIELA@gmail" )

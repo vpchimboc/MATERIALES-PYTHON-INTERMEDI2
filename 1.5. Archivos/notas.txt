@@ -1,3 +1,5 @@
-Ana,9.5
-Luis,7.0
-María,8.25
+Ana , 9.5
+Luis , 7.0
+María , 8.25
+Veronica , 8.5
+Jose , 7
