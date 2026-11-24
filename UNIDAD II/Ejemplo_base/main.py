@@ -1,4 +1,4 @@
-from modelo import ListaPersonas
+from modelo import*
 from vista import VistaPersonas
 from controlador import ControladorPersonas
 
